@@ -1,0 +1,6 @@
+{
+  "name": "AI OOTD Outfit Logger & Closet Stylist",
+  "description": "Log your Outfit of the Day (OOTD) with AI photo analysis. Scan clothes automatically, get styling recommendations, track your mood, and match outfits to the weather.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
